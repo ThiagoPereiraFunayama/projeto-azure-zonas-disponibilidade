@@ -1,5 +1,5 @@
 # projeto-azure-zonas-disponibilidade
-# O que são as zonas de disponibilidade.
+## O que são as zonas de disponibilidade.
 
 Várias regiões do Azure fornecem zonas de disponibilidade, que são grupos separados de datacenters em uma região. Cada zona de disponibilidade tem energia, resfriamento e infraestrutura de rede independentes, para que, se uma zona sofrer uma interrupção, os serviços regionais, a capacidade e a alta disponibilidade sejam compatíveis com as zonas restantes.
 
