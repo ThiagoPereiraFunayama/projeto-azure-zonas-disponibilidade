@@ -9,4 +9,4 @@ Os locais de datacenter são selecionados usando critérios rigorosos de avalia�
 
 O diagrama a seguir mostra vários exemplos de regiões do Azure. As regiões 1 e 2 dão suporte a zonas de disponibilidade e as regiões 3 e 4 não têm zonas de disponibilidade.
 
-|[Zonas de disponibilidade](https://github.com/ThiagoPereiraFunayama/projeto-azure-zonas-disponibilidade/blob/main/Captura%20de%20tela%20de%202025-07-23%2008-40-35.png)
+[](https://github.com/ThiagoPereiraFunayama/projeto-azure-zonas-disponibilidade/blob/main/Captura%20de%20tela%20de%202025-07-23%2008-40-35.png)
